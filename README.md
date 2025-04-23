@@ -112,6 +112,6 @@ This project is for educational and research purposes only. It is **not** a subs
 **Talha Fareedi**  
 Machine Learning Engineer & AI Researcher  
 🔗 [LinkedIn](https://www.linkedin.com/in/talha-fareedi/)  
-📧 info@maria.com
+📧 talhafareedi092@gmail.com
 
 ---
